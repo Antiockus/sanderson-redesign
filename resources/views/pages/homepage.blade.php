@@ -6,11 +6,18 @@
 
 @section('content')
     <div class="col-md-10">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <strong style="font-size:36px;"><a href="http://www.watermainbreakclock.com" >Watermain
+                        Break</a></strong>
+            </div>
+        </div>
 
-        <div class="col-md-6">
-            <a href="{{ url('sanderson') }}"><img src="img/01-Jan.jpg" class="img-responsive" alt="sanderson
+        <div class="row">
+            <div class="col-md-6">
+                <a href="{{ url('sanderson') }}"><img src="img/01-Jan.jpg" class="img-responsive" alt="sanderson
             location"></a>
-            <span class="text-center">
+                <span class="text-center">
                 <p>One Enterprise West <br>
                 Sanderson, Florida 32087</p>
 
@@ -19,12 +26,12 @@
 
                    <p> Admin: (904)275-2833 / Fax: (904)275-3054</p>
             </span>
-        </div>
+            </div>
 
-        <div class="col-md-6">
-            <a href="{{ url('clarksville') }}"><img src="img/112.jpg" class="img-responsive" alt="clarksville
+            <div class="col-md-6">
+                <a href="{{ url('clarksville') }}"><img src="img/112.jpg" class="img-responsive" alt="clarksville
             location"></a>
-            <span class="text-center">
+                <span class="text-center">
                 <p>875 International Blvd <br>
                 Clarksville, Tennessee 37040</p>
 
@@ -33,6 +40,7 @@
 
                    <p> Admin: (931)221-4800 / Fax: (931)221-4830</p>
             </span>
+            </div>
         </div>
     </div>
 @endsection

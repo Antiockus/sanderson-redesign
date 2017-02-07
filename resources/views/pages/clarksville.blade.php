@@ -6,6 +6,10 @@
 
 @section('content')
     <div class="col-md-10">
-        <p>Clarksville Division</p>
+        <p class="text-center">Clarksville Division</p>
+
+        <div class="row"></div>
+        <div class="row"></div>
+        <div class="row"></div>
     </div>
 @endsection

@@ -6,6 +6,6 @@
 
 @section('content')
     <div class="col-md-10">
-        <p>Sanderson Division</p>
+        <p class="text-center">Sanderson Division</p>
     </div>
 @endsection

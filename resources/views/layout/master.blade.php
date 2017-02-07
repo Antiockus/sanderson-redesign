@@ -22,8 +22,6 @@
     <div class="row">
         @include('partials.nav')
         @yield('content')
-    </div>
-    <div class="row">
         @include('partials.footer')
     </div>
 </div>
