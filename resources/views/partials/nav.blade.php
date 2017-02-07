@@ -1,5 +1,5 @@
 <div class="col-md-2" id="nav">
-    <ul>
+    <ul class="nav nav-sidebar">
         <li><a href="{{ url('/') }}">Home</a></li>
         <li><a href="{{ url('contact') }}">Contact Us</a></li>
         <li><a href="{{ url('pdf/brochure.pdf') }}" download>Brochure</a></li>

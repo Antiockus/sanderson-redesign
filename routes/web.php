@@ -19,11 +19,20 @@ Route::get('/contact', function(){
 	return view('pages.contact');
 });
 
+Route::get('sanderson', function(){
+	return view('pages.sanderson');
+
+});
+
+Route::get('clarksville', function(){
+	return view('pages.clarksville');
+});
+
 Route::get('/specs', function (){
 	return view('pages.specs');
 });
 
-Route::get('/pdf/{pdf}', function($pdf){
+Route::get('pdf/{pdf}', function($pdf){
 	return response()->download($pdf);
 });
 
