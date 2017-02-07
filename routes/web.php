@@ -12,5 +12,25 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('pages.homepage');
+});
+
+Route::get('/contact', function(){
+	return view('pages.contact');
+});
+
+Route::get('/specs', function (){
+	return view('pages.specs');
+});
+
+Route::get('/pdf/{pdf}', function($pdf){
+	return response()->download($pdf);
+});
+
+Route::get('/loading-chart', function(){
+	return view('pages.loadingChart');
+});
+
+Route::get('/block-pricing', function(){
+	return view('pages.blockPricing');
 });
