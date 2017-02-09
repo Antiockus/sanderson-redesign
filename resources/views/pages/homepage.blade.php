@@ -7,9 +7,10 @@
 @section('content')
     <div class="col-md-10">
         <div class="row">
-            <div class="col-md-12 text-center">
-                <strong style="font-size:36px;"><a href="http://www.watermainbreakclock.com" >Watermain
-                        Break</a></strong>
+            <div class="col-md-12  banner">
+                <strong style="font-size:36px;"><a href="http://www.watermainbreakclock.com" ><img src="img/wmbc.gif" alt="Watermain Break Clock gif"></a></strong>
+                <span class="text-center">Welcome to Sanderson Pipe - Your leader in PVC Pipe Excellence!
+</span>
             </div>
         </div>
 

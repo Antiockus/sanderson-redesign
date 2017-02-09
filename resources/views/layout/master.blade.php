@@ -14,6 +14,7 @@
 
 
     <link rel="stylesheet" href="css/app.css">
+    @yield('styles')
 
 </head>
 <body>
