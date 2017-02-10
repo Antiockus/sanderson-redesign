@@ -8,9 +8,9 @@
     <div class="col-md-10">
         <div class="row">
             <div class="col-md-12  banner">
-                <strong style="font-size:36px;"><a href="http://www.watermainbreakclock.com" ><img src="img/wmbc.gif" alt="Watermain Break Clock gif"></a></strong>
-                <span class="text-center">Welcome to Sanderson Pipe - Your leader in PVC Pipe Excellence!
-</span>
+                <span bgcolor="#004933" width="110" class="pull-left"><a href="http://www.uni-bell.org/" target="_blank"><img border="0" src="img/MemberLOGO_UniBell.jpg" width="108" height="60"></a></span>
+                <span style="font-size:36px;" class="center-block"><a href="http://www.watermainbreakclock.com">
+                        <img src="img/wmbc.gif" alt="Watermain Break Clock gif"></a></span>
             </div>
         </div>
 
@@ -41,6 +41,13 @@
 
                    <p> Admin: (931)221-4800 / Fax: (931)221-4830</p>
             </span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <p class="text-center">
+                    <a href="{{ url('corporate') }}">Corporate Division</a>
+                </p>
             </div>
         </div>
     </div>

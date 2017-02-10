@@ -28,6 +28,10 @@ Route::get('clarksville', function(){
 	return view('pages.clarksville');
 });
 
+Route::get('corporate', function(){
+	return view('pages.corporate');
+});
+
 Route::get('/specs', function (){
 	return view('pages.specs');
 });
