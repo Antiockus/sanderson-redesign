@@ -10,7 +10,7 @@
             <div class="col-md-12  banner">
                 <span bgcolor="#004933" width="110" class="pull-left"><a href="http://www.uni-bell.org/" target="_blank"><img border="0" src="img/MemberLOGO_UniBell.jpg" width="108" height="60"></a></span>
                 <span style="font-size:36px;" class="center-block"><a href="http://www.watermainbreakclock.com">
-                        <img src="img/wmbc.gif" alt="Watermain Break Clock gif"></a></span>
+                        <img src="img/wmbc.gif" alt="Watermain Break Clock gif" class="img-responsive"></a></span>
             </div>
         </div>
 

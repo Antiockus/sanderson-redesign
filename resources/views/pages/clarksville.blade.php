@@ -5,38 +5,7 @@
 @endsection
 
 @section('styles')
-    <style>
-
-        .card         { border-left-style: none;  border-right-style: none;  border-top-style: none;  border-bottom-style: none;
-            border-left-width: 0px;   border-right-width: 0px;   border-top-width: 0px;   border-bottom-width: 0px;
-
-            background-color: #FFFFFF; align:center; vertical-align:top }
-
-        .cardl        { border-left-style: solid; border-right-style: none;  border-top-style: solid; border-bottom-style: solid;
-            border-left-width: 1px;   border-right-width: 0px;   border-top-width: 1px;   border-bottom-width: 1px;
-
-            background-color: #FFFFFF; align:center; vertical-align:top }
-
-        .cellnone     { border-left-style: none;  border-right-style: none;  border-top-style: none;  border-bottom-style: none;
-            border-left-width: 0px;   border-right-width: 0px;   border-top-width: 0px;   border-bottom-width: 0px; }
-
-        .celltop      { border-left-style: none;  border-right-style: none;  border-top-style: solid; border-bottom-style: none;
-            border-left-width: 0px;   border-right-width: 0px;   border-top-width: 1px;   border-bottom-width: 0px; }
-
-        .cellrighttop { border-left-style: none;  border-right-style: solid; border-top-style: solid; border-bottom-style: none;
-            border-left-width: 0px;   border-right-width: 1px;   border-top-width: 1px;   border-bottom-width: 0px; }
-
-        .cellright    { border-left-style: none;  border-right-style: solid; border-top-style: none;  border-bottom-style: none;
-            border-left-width: 0px;   border-right-width: 1px;   border-top-width: 0px;   border-bottom-width: 0px; }
-
-        .cellinfo     { border-left-style: solid; border-right-style: solid; border-top-style: solid; border-bottom-style: solid;
-            border-left-width: 1px;   border-right-width: 1px;   border-top-width: 1px;   border-bottom-width: 1px;
-            font-family: Verdana; font-size: 9pt; color: #006600; text-align: center; font-weight: bold;
-            background-color: #FFFFFF;
-            vertical-align: middle;}
-
-
-    </style>
+    <link rel="stylesheet" href="css/clarksville.css">
 @endsection
 
 @section('content')
