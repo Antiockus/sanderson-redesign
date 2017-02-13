@@ -8323,13 +8323,24 @@ body {
 
 .banner {
   background-color: #004933;
+  border: 2px solid white;
 }
 
 #nav {
   background-color: #004933;
   height: 100%;
+  border: 2px solid white;
 }
 
 #nav li {
   list-style-type: none;
+}
+
+#nav li a {
+  color: white;
+}
+
+#nav li a:hover {
+  background: #FFFFCC;
+  color: #004933;
 }

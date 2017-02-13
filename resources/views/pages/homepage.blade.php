@@ -5,18 +5,18 @@
 @endsection
 
 @section('content')
-    <div class="col-md-10">
+    <div class="col-sm-10">
         <div class="row">
             <div class="col-md-12  banner">
                 <span bgcolor="#004933" width="110" class="pull-left"><a href="http://www.uni-bell.org/" target="_blank"><img border="0" src="img/MemberLOGO_UniBell.jpg" width="108" height="60"></a></span>
-                <span style="font-size:36px;" class="center-block"><a href="http://www.watermainbreakclock.com">
-                        <img src="img/wmbc.gif" alt="Watermain Break Clock gif" class="img-responsive"></a></span>
+                <span style="font-size:36px;" class="center-block"><a href="http://www.watermainbreakclock.com" target="_blank">
+                        <img src="img/wmbc.gif" alt="Watermain Break Clock gif" class="img-responsive center-block"></a></span>
             </div>
         </div>
 
         <div class="row">
             <div class="col-md-6">
-                <a href="{{ url('sanderson') }}"><img src="img/01-Jan.jpg" class="img-responsive" alt="sanderson
+                <a href="{{ url('sanderson') }}"><img src="img/01-Jan.jpg" class="img-responsive center-block" style="width: 500px;" alt="sanderson
             location"></a>
                 <span class="text-center">
                 <p>One Enterprise West <br>
@@ -30,7 +30,7 @@
             </div>
 
             <div class="col-md-6">
-                <a href="{{ url('clarksville') }}"><img src="img/112.jpg" class="img-responsive" alt="clarksville
+                <a href="{{ url('clarksville') }}"><img src="img/112.jpg" class="img-responsive center-block" style="width: 500px;" alt="clarksville
             location"></a>
                 <span class="text-center">
                 <p>875 International Blvd <br>

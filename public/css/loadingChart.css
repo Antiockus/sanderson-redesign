@@ -1,0 +1,40 @@
+.pagehead {
+    border-left-width:0; border-right-width:0; border-top-width:0; border-bottom-width:0;
+    padding-left:2; padding-right:2;
+    font-family:Arial Black; font-size:18pt; color:#006600; font-weight:normal; text-align:center; vertical-align:bottom
+}
+.pagehead2 {
+    border-left-width:0; border-right-width:0; border-top-width:0; border-bottom-width:0;
+    padding-left:2; padding-right:2;
+    font-family:Arial Black; font-size:8pt; color:#006600; font-weight:normal; text-align:center; vertical-align:bottom
+}
+.colhead {
+    border-left-width:0; border-right-width:0; border-top-width:0; border-bottom-width:1 solid;
+    padding-left:2; padding-right:2;
+    font-family:Arial Narrow; font-size:14pt; color:#006600; font-weight:bold; text-align:center; vertical-align:top
+}
+.colschedule {
+    border-left-width:0; border-right-width:0; border-top-width:0; border-bottom-width:0;
+    padding-left:2; padding-right:2;
+    font-family:Verdana; font-size:10pt; color:#006600; font-weight:normal; text-align:left; vertical-align:top
+}
+.colscheduleb {
+    border-left-width:0; border-right-width:0; border-top-width:0; border-bottom-width:1 solid;
+    padding-left:2; padding-right:2;
+    font-family:Verdana; font-size:10pt; color:#006600; font-weight:normal; text-align:left; vertical-align:top
+}
+.colpipe {
+    border-left-width:0; border-right-width:0; border-top-width:0; border-bottom-width:1 solid;
+    padding-left:2; padding-right:2;
+    font-family:Verdana; font-size:18pt; color:#006600; font-weight:bold; text-align:center; vertical-align:middle
+}
+.coldata {
+    border-left-width:0; border-right-width:0; border-top-width:0; border-bottom-width:0;
+    padding-left:10; padding-right:10;
+    font-family:Verdana; font-size:10pt; color:#006600; font-weight:normal; text-align:right; vertical-align:top
+}
+.coldatab {
+    border-left-width:0; border-right-width:0; border-top-width:0; border-bottom-width:1 solid;
+    padding-left:10; padding-right:10;
+    font-family:Verdana; font-size:10pt; color:#006600; font-weight:normal; text-align:right; vertical-align:top
+}

@@ -1,4 +1,4 @@
-<nav class="col-md-2 navbar" id="nav">
+<nav class="col-sm-2 navbar" id="nav">
     <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
             <i class="fa fa-bars"></i>
@@ -8,7 +8,7 @@
 
         <ul class="nav navbar-nav nav-stacked">
             <li><a href="{{ url('/') }}">Home</a></li>
-            <li><a href="{{ url('contact') }}">Contact Us</a></li>
+            <li><a href="{{ url('corporate') }}">Contact Us</a></li>
             <li><a href="{{ url('pdf/brochure.pdf') }}" download>Brochure</a></li>
             <li><a href="{{ url('loading-chart') }}">Loading Chart</a></li>
             <li><a href="{{ url('pdf/msds.pdf') }}" download>PVC Pipe SDS</a></li>

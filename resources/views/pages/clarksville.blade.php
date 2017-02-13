@@ -9,9 +9,10 @@
 @endsection
 
 @section('content')
-    <div class="col-md-10">
+    <div class="col-sm-10">
         <p class="text-center">Clarksville Division</p>
-        <table cellpadding="0" cellspacing="0" width="750" style="border-collapse: collapse; border-width: 0;" border="1" bordercolor="#111111">
+        <table cellpadding="0" cellspacing="0" width="750" style="border-collapse: collapse; border-width: 0;" border="1" bordercolor="#111111"
+               class="table-responsive">
 
             <tr>
                 <td height="125" colspan="10" rowspan="2" class="cellnone">&nbsp;</td>

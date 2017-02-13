@@ -19,8 +19,8 @@
 
 </head>
 <body>
+<div class="container-fluid">
 @include('partials.header')
-<div class="container">
     <div class="row">
         @include('partials.nav')
         @yield('content')

@@ -21,14 +21,26 @@ body {
 
 .banner {
   background-color: $green;
+  border: 2px solid white;
 }
 
 #nav {
   background-color: $green;
   height: 100%;
+  border: 2px solid white;
 
   li {
     list-style-type: none;
+
+    a {
+      color: white;
+    }
+
+    a:hover {
+      background: $yellow;
+      color: $green;
+    }
+
   }
 }
 
