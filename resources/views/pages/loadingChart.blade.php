@@ -11,7 +11,7 @@
 @section('content')
     <div class="col-md-10">
         <p align="center">
-        <table border="1" cellpadding="2" cellspacing="0" style="border-collapse: collapse; border-width: 0"
+        <table class="table-responsive" border="1" cellpadding="2" cellspacing="0" style="border-collapse: collapse; border-width: 0"
                bordercolor="#111111" width="850">
             <tr>
                 <td class="pagehead" colspan="3">LOADING CHART</td>
