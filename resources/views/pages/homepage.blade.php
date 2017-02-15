@@ -8,8 +8,13 @@
     <div class="col-sm-10">
         <div class="row">
             <div class="col-md-12  banner">
-                <span bgcolor="#004933" width="110" class="pull-left"><a href="http://www.uni-bell.org/" target="_blank"><img border="0" src="img/MemberLOGO_UniBell.jpg" width="108" height="60"></a></span>
-                <span style="font-size:36px;" class="center-block"><a href="http://www.watermainbreakclock.com" target="_blank">
+                <span bgcolor="#004933" width="110" class="pull-left"><a href="http://www.uni-bell.org/"
+                                                                         target="_blank"><img border="0"
+                                                                                              src="img/MemberLOGO_UniBell.jpg"
+                                                                                              width="108"
+                                                                                              height="60"></a></span>
+                <span style="font-size:36px;" class="center-block"><a href="http://www.watermainbreakclock.com"
+                                                                      target="_blank">
                         <img src="img/wmbc.gif" alt="Watermain Break Clock gif" class="img-responsive center-block"></a></span>
             </div>
         </div>
@@ -21,27 +26,28 @@
                                                       alt="sanderson
             location"></a>
                 <span class="text-center">
-                <p>One Enterprise West <br>
-                Sanderson, Florida 32087</p>
+                <p>### Enterprise West <br>
+                Sanderson, Florida #####</p>
 
-                <p>Sales: (904)275-3289 / (800)669-3553 <br>
-                Fax: (904)275-3247</p>
+                <p>Sales: (###)###-#### / (###)###-#### <br>
+                Fax: (###)###-####</p>
 
-                   <p> Admin: (904)275-2833 / Fax: (904)275-3054</p>
+                   <p> Admin: (###)###-#### / Fax: (###)###-####</p>
             </span>
             </div>
 
             <div class="col-md-6">
-                <a href="{{ url('clarksville') }}"><img src="img/453x342.png" class="img-responsive center-block" style="width: 500px;" alt="clarksville
+                <a href="{{ url('clarksville') }}"><img src="img/453x342.png" class="img-responsive center-block"
+                                                        style="width: 500px;" alt="clarksville
             location"></a>
                 <span class="text-center">
-                <p>875 International Blvd <br>
-                Clarksville, Tennessee 37040</p>
+                <p>### International Blvd <br>
+                Clarksville, Tennessee #####</p>
 
-                <p>Sales: (904)275-3289 / (800)669-3553 <br>
-                Fax: (904)275-3247</p>
+                <p>Sales: (###)###-#### / (###)###-#### <br>
+                Fax: (###)###-####</p>
 
-                   <p> Admin: (931)221-4800 / Fax: (931)221-4830</p>
+                   <p> Admin: (###)###-#### / Fax: (###)###-####</p>
             </span>
             </div>
         </div>

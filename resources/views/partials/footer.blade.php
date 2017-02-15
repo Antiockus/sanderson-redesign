@@ -1,4 +1,7 @@
 <div class="col-md-offset-2 col-md-10 text-center">
     <hr>
-    Copyright (c) 2017 - Sanderson Pipe Corporation - All Rights Reserved (N) <br> SPC
+    Site Redesign by Tim Squires - original site: <a href="http://www.sandersonpipe.com" >Sanderson Pipe
+        Corporation</a>
+<br>
+    SPC
 </div>
