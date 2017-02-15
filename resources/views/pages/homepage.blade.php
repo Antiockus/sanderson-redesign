@@ -16,7 +16,9 @@
 
         <div class="row">
             <div class="col-md-6">
-                <a href="{{ url('sanderson') }}"><img src="img/01-Jan.jpg" class="img-responsive center-block" style="width: 500px;" alt="sanderson
+                <a href="{{ url('sanderson') }}"><img src="img/453x342.png" class="img-responsive center-block"
+                                                      style="width: 500px;"
+                                                      alt="sanderson
             location"></a>
                 <span class="text-center">
                 <p>One Enterprise West <br>
@@ -30,7 +32,7 @@
             </div>
 
             <div class="col-md-6">
-                <a href="{{ url('clarksville') }}"><img src="img/112.jpg" class="img-responsive center-block" style="width: 500px;" alt="clarksville
+                <a href="{{ url('clarksville') }}"><img src="img/453x342.png" class="img-responsive center-block" style="width: 500px;" alt="clarksville
             location"></a>
                 <span class="text-center">
                 <p>875 International Blvd <br>

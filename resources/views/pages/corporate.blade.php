@@ -1,7 +1,7 @@
 @extends('layout.master')
 
 @section('title')
-    Corporate Division
+    Corporate Contacts
 @endsection
 
 @section('styles')
@@ -20,7 +20,7 @@
 
                 <td height="100" colspan="4" align="center">
                     <a href="mailto:eric-h@sandersonpipe.com?subject=Website"><img border="0"
-                                                                                   src="img/Corporate/Howard_Eric.jpg"
+                                                                                   src="img/200x.png"
                                                                                    width="100" height="100"></a>
                 </td>
 
@@ -244,7 +244,7 @@
 
                 <td height="100" colspan="4" align="center"><a
                             href="mailto:ben-f@sandersonpipe.com?subject=Website"><img border="0"
-                                                                                       src="img/Corporate/bfreeman.gif"
+                                                                                       src="img/200x.png"
                                                                                        width="100" height="100"></a></a>
                 </td>
 
@@ -252,7 +252,7 @@
 
                 <td height="100" colspan="4" align="center">
                     <a href="mailto:robin-b@sandersonpipe.com?subject=Website"><img border="0"
-                                                                                    src="img/Corporate/Byrd_Robin.jpg"
+                                                                                    src="img/200x.png"
                                                                                     width="100" height="100"></a>
                 </td>
 
@@ -260,7 +260,7 @@
 
                 <td height="100" colspan="4" align="center">
                     <a href="mailto:michelle-p@sandersonpipe.com?subject=Website"><img border="0"
-                                                                                       src="img/Corporate/5032.jpg"
+                                                                                       src="img/200x.png"
                                                                                        width="100" height="100"></a>
                 </td>
 
@@ -345,7 +345,8 @@
 
                 <td height="100" colspan="4" align="center"><a
                             href="mailto:crystal-w@sandersonpipe.com?subject=Website"><img border="0"
-                                                                                           src="img/Corporate/Wilkerson_Crystal.gif"
+                                                                                           src="img/200x
+                                                                                           .png"
                                                                                            width="100"
                                                                                            height="100"></a></a>
                 </td>
@@ -355,7 +356,7 @@
 
                 <td height="100" colspan="4" align="center">
                     <a href="mailto:james-l@sandersonpipe.com?subject=Website"><img border="0"
-                                                                                    src="img/Corporate/Lawerance-James.gif"
+                                                                                    src="img/200x.png"
                                                                                     width="100" height="100"></a>
                 </td>
 
@@ -363,7 +364,7 @@
 
                 <td height="100" colspan="4" align="center">
                     <a href="mailto:glenn-l@sandersonpipe.com?subject=Website"><img border="0"
-                                                                                    src="img/Corporate/Lilly_Glenn.gif"
+                                                                                    src="img/200x.png"
                                                                                     width="100" height="100"></a>
                 </td>
 
@@ -379,7 +380,7 @@
                 </td>
 
                 <td height="25" colspan="4" align="center" class="cellinfo">James<br>Lawrence<br>
-                    <span style="font-weight: 400; font-size: 7pt">Corporate Safety<br>/ Environmental<br>Coordinator<br><a
+                    <span style="font-weight: 400; font-size: 7pt">200x.png>/ Environmental<br>Coordinator<br><a
                                 href="mailto:james-l@sandersonpipe.com?subject=Website">e-mail</a></span>
                 </td>
 

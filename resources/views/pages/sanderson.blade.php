@@ -20,14 +20,14 @@
                 <td height="125" colspan="10" rowspan="2" class="cellnone">&nbsp;</td>
 
                 <td height="100" colspan="4" align="center">
-                    <a href="mailto:steve-s@sandersonpipe.com?subject=Website"><img border="0" src="img/Sanderson Division/shumate.jpg"
+                    <a href="mailto:steve-s@sandersonpipe.com?subject=Website"><img border="0" src="img/200x.png"
                                                                                     width="100" height="100"></a>
                 </td>
 
                 <td height="125" colspan="11" rowspan="2" class="cellnone">&nbsp;</td>
 
                 <td height="100" colspan="4" align="center">
-                    <a href="mailto:darla@sandersonpipe.com?subject=Website"><img border="0" src="img/Sanderson Division/03darla4.jpg"
+                    <a href="mailto:darla@sandersonpipe.com?subject=Website"><img border="0" src="img/200x.png"
                                                                                   width="100" height="100"></a>
                 </td>
 
@@ -120,14 +120,14 @@
 
                 <td height="100" colspan="4" align="center">
                     <a href="mailto:Mose-D@sandersonpipe.com?subject=Website"><img border="0"
-                                                                                   src="img/Sanderson Division/Danial-Mose.gif"
+                                                                                   src="img/200x.png"
                                                                                    width="100" height="100"></a>
                 </td>
 
                 <td height="125" colspan="2" rowspan="2" class="cellnone">&nbsp;</td>
                 <td height="100" colspan="4" align="center">
                     <a href="mailto:robert-w@sandersonpipe.com?subject=Website"><img border="0"
-                                                                                     src="img/Sanderson Division/White_Robert.gif"
+                                                                                     src="img/200x.png"
                                                                                      width="100" height="100"></a>
                 </td>
 
@@ -137,7 +137,7 @@
 
                 <td height="100" colspan="4" align="center">
                     <a href="mailto:james-g@sandersonpipe.com?subject=Website"><img border="0"
-                                                                                    src="img/Sanderson Division/Green_James.gif"
+                                                                                    src="img/200x.png"
                                                                                     width="100" height="100">
                 </td>
 
@@ -145,7 +145,7 @@
 
                 <td height="100" colspan="4" align="center">
                     <a href="mailto:chrism@sandersonpipe.com?subject=Website">
-                        <img border="0" src="img/Sanderson Division/Chris_Minorics.jpg" width="100" height="100"></a>
+                        <img border="0" src="img/200x.png" width="100" height="100"></a>
                 </td>
 
                 <td height="125" colspan="7" rowspan="2" class="cellnone">&nbsp;</td>
@@ -245,7 +245,7 @@
 
                 <td height="100" colspan="4" align="center">
                     <a href="mailto:bob-j@sandersonpipe.com?subject=Website"><img border="0"
-                                                                                  src="img/Sanderson Division/Jones_Bobby.jpg"
+                                                                                  src="img/200x.png"
                                                                                   width="100" height="100"></a>
                 </td>
 
@@ -253,7 +253,7 @@
 
                 <td height="100" colspan="4" align="center">
                     <a href="mailto:wendell-a@sandersonpipe.com?subject=Website"><img border="0"
-                                                                                      src="img/Sanderson Division/Ash-Wendell.gif"
+                                                                                      src="img/200x.png"
                                                                                       width="100" height="100"></a>
                 </td>
 
@@ -261,7 +261,7 @@
 
                 <td height="100" colspan="4" align="center">
                     <a href="mailto:eddy-s@sandersonpipe.com?subject=Website"><img border="0"
-                                                                                   src="img/Sanderson Division/Sanders-Eddy.gif"
+                                                                                   src="img/200x.png"
                                                                                    width="100" height="100">
                 </td>
 
