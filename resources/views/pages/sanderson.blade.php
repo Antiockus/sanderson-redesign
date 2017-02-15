@@ -20,14 +20,14 @@
                 <td height="125" colspan="10" rowspan="2" class="cellnone">&nbsp;</td>
 
                 <td height="100" colspan="4" align="center">
-                    <a href="mailto:steve-s@sandersonpipe.com?subject=Website"><img border="0" src="img/200x.png"
+                    <a href="mailto:#?subject=Website"><img border="0" src="img/200x.png"
                                                                                     width="100" height="100"></a>
                 </td>
 
                 <td height="125" colspan="11" rowspan="2" class="cellnone">&nbsp;</td>
 
                 <td height="100" colspan="4" align="center">
-                    <a href="mailto:darla@sandersonpipe.com?subject=Website"><img border="0" src="img/200x.png"
+                    <a href="mailto:#=Website"><img border="0" src="img/200x.png"
                                                                                   width="100" height="100"></a>
                 </td>
 
@@ -39,12 +39,12 @@
 
                 <td height="25" colspan="4" align="center" class="cellinfo">Steve<br>Shumate<br>
                     <span style="font-size:7pt; font-weight:normal; ">Plant Mgr.<br><a
-                                href="mailto:steve-s@sandersonpipe.com?subject=Website">e-mail</a></span>
+                                href="mailto:#?subject=Website">e-mail</a></span>
                 </td>
 
                 <td height="25" colspan="4" align="center" class="cellinfo">Darla Fogarty<br>
                     <span style="font-size:7pt; font-weight:normal;">Human Resources<br>Mgr.<br><a
-                                href="mailto:darla@sandersonpipe.com?subject=Website">e-mail</a></span>
+                                href="mailto:#=Website">e-mail</a></span>
                 </td>
 
             </tr>
@@ -119,14 +119,14 @@
                 <td height="125" colspan="1" rowspan="2" class="cellnone">&nbsp;</td>
 
                 <td height="100" colspan="4" align="center">
-                    <a href="mailto:Mose-D@sandersonpipe.com?subject=Website"><img border="0"
+                    <a href="mailto:#?subject=Website"><img border="0"
                                                                                    src="img/200x.png"
                                                                                    width="100" height="100"></a>
                 </td>
 
                 <td height="125" colspan="2" rowspan="2" class="cellnone">&nbsp;</td>
                 <td height="100" colspan="4" align="center">
-                    <a href="mailto:robert-w@sandersonpipe.com?subject=Website"><img border="0"
+                    <a href="mailto:#?subject=Website"><img border="0"
                                                                                      src="img/200x.png"
                                                                                      width="100" height="100"></a>
                 </td>
@@ -136,7 +136,7 @@
                 <td height="125" colspan="1" rowspan="2" class="cellnone">&nbsp;</td>
 
                 <td height="100" colspan="4" align="center">
-                    <a href="mailto:james-g@sandersonpipe.com?subject=Website"><img border="0"
+                    <a href="mailto:#?subject=Website"><img border="0"
                                                                                     src="img/200x.png"
                                                                                     width="100" height="100">
                 </td>
@@ -144,7 +144,7 @@
                 <td height="125" colspan="2" rowspan="2" class="cellnone">&nbsp;</td>
 
                 <td height="100" colspan="4" align="center">
-                    <a href="mailto:chrism@sandersonpipe.com?subject=Website">
+                    <a href="mailto:#=Website">
                         <img border="0" src="img/200x.png" width="100" height="100"></a>
                 </td>
 
@@ -156,22 +156,22 @@
 
                 <td height="25" colspan="4" align="center" class="cellinfo">Mose Daniel<br>
                     <span style="font-size:7pt; font-weight:normal; ">Production Mgr.<br><a
-                                href="mailto:mose-d@sandersonpipe.com?subject=Website">e-mail</a></span>
+                                href="mailto:#?subject=Website">e-mail</a></span>
                 </td>
 
                 <td height="25" colspan="4" align="center" class="cellinfo">Robert White<br>
                     <span style="font-size:7pt; font-weight:normal; ">Maintenance Mgr.<br><a
-                                href="mailto:robert-w@sandersonpipe.com?subject=Website">e-mail</a></span>
+                                href="mailto:#?subject=Website">e-mail</a></span>
                 </td>
 
                 <td height="25" colspan="4" align="center" class="cellinfo">James Green<br>
                     <span style="font-size:7pt; font-weight:normal; ">Quality Control<br>Mgr.<br><a
-                                href="mailto:james-g@sandersonpipe.com?subject=Website">e-mail</a></span>
+                                href="mailto:#?subject=Website">e-mail</a></span>
                 </td>
 
                 <td height="25" colspan="4" align="center" class="cellinfo">Chris Minorics<br>
                     <span style="font-size:7pt; font-weight:normal; ">Tool & Die Mgr.<br><a
-                                href="mailto:chrism@sandersonpipe.com?subject=Website">e-mail</a></span>
+                                href="mailto:#=Website">e-mail</a></span>
                 </td>
             </tr>
 
@@ -244,7 +244,7 @@
                 <td height="125" colspan="4" rowspan="2" class="cellnone">&nbsp;</td>
 
                 <td height="100" colspan="4" align="center">
-                    <a href="mailto:bob-j@sandersonpipe.com?subject=Website"><img border="0"
+                    <a href="mailto:#?subject=Website"><img border="0"
                                                                                   src="img/200x.png"
                                                                                   width="100" height="100"></a>
                 </td>
@@ -252,7 +252,7 @@
                 <td height="125" colspan="2" rowspan="2" class="cellnone">&nbsp;</td>
 
                 <td height="100" colspan="4" align="center">
-                    <a href="mailto:wendell-a@sandersonpipe.com?subject=Website"><img border="0"
+                    <a href="mailto:#?subject=Website"><img border="0"
                                                                                       src="img/200x.png"
                                                                                       width="100" height="100"></a>
                 </td>
@@ -260,7 +260,7 @@
                 <td height="125" colspan="2" rowspan="2" class="cellnone">&nbsp;</td>
 
                 <td height="100" colspan="4" align="center">
-                    <a href="mailto:eddy-s@sandersonpipe.com?subject=Website"><img border="0"
+                    <a href="mailto:#?subject=Website"><img border="0"
                                                                                    src="img/200x.png"
                                                                                    width="100" height="100">
                 </td>
@@ -275,17 +275,17 @@
 
                 <td height="25" colspan="4" align="center" class="cellinfo">Bob Jones<br>
                     <span style="font-size:7pt; font-weight:normal; ">Purchasing Mgr.<br><a
-                                href="mailto:bob-j@sandersonpipe.com?subject=Website">e-mail</a></span>
+                                href="mailto:#?subject=Website">e-mail</a></span>
                 </td>
 
                 <td height="25" colspan="4" align="center" class="cellinfo">Wendell Ash<br>
                     <span style="font-size:7pt; font-weight:normal; ">Grinding / Wood<br>Cutting Mgr.<br><a
-                                href="mailto:wendell-a@sandersonpipe.com?subject=Website">e-mail</a></span>
+                                href="mailto:#?subject=Website">e-mail</a></span>
                 </td>
 
                 <td height="25" colspan="4" align="center" class="cellinfo">Eddy Sanders<br>
                     <span style="font-size:7pt; font-weight:normal; ">Blending Mgr.<br><a
-                                href="mailto:eddy-s@sandersonpipe.com?subject=Website">e-mail</a></span>
+                                href="mailto:#?subject=Website">e-mail</a></span>
                 </td>
 
             </tr>
